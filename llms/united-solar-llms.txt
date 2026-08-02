@@ -1,0 +1,22 @@
+# United Solar
+
+> United Solar (United Solar Polysilicon FZC SPC) is a clean-technology company producing ultra-high-purity polysilicon for the photovoltaic industry from its manufacturing facility in Oman's Sohar Free Zone — 100,000 metric tons annual capacity, supporting roughly 40 GW of solar module production. Backed by IDG Capital and the IFC. United Solar is an industrial manufacturer: it publishes no developer portal, no public APIs, and no machine-readable API artifacts.
+
+## Company
+
+- [Website](https://www.unitedsolarholding.com/): Corporate site (EN/CN/AR)
+- [About](https://www.unitedsolarholding.com/about): Company overview
+- [Products](https://www.unitedsolarholding.com/products): High-purity polysilicon products
+- [News & Events](https://www.unitedsolarholding.com/news): Company news
+- [Sustainability](https://www.unitedsolarholding.com/sustainable): ESG
+- [Investor Relations](https://www.unitedsolarholding.com/investor): Investor information
+- [Contact](https://www.unitedsolarholding.com/about/contact.html): Contact page
+- [Privacy Policy](https://www.unitedsolarholding.com/privacy_protection): Privacy policy
+
+## APIs
+
+- None published. No developer portal, API documentation, or public specifications were found as of 2026-07-21.
+
+## Catalog
+
+- [APIs.json profile](https://raw.githubusercontent.com/api-evangelist/united-solar/refs/heads/main/apis.yml): API Evangelist network profile for United Solar

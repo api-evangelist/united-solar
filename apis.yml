@@ -1,8 +1,25 @@
 aid: united-solar
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/united-solar.png
 name: United Solar
-description: 'United Solar is a company surfaced as a portfolio company of idg-capital and added to the
-  API Evangelist network as a stub for enrichment. Sector: consumer-technology. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: >-
+  United Solar (United Solar Polysilicon FZC SPC) is a clean-technology company producing
+  ultra-high-purity polysilicon for the photovoltaic industry from one of the world's most
+  advanced manufacturing facilities in Oman's Sohar Free Zone, with an annual capacity of
+  100,000 metric tons supporting roughly 40 GW of solar module production. Backed by IDG
+  Capital and the IFC, the company completed a $1.6 billion capital raise in 2026 and is
+  the largest polysilicon producer of its kind outside China. United Solar is an industrial
+  manufacturer and does not publish a developer portal or public APIs.
 url: https://raw.githubusercontent.com/api-evangelist/united-solar/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,13 +29,36 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
-- Consumer Technology
+- Solar
+- Polysilicon
+- Clean Energy
+- Manufacturing
+- Photovoltaics
+- Renewable Energy
 apis: []
+common:
+- type: DomainSecurity
+  url: security/united-solar-domain-security.yml
+- type: Website
+  url: https://www.unitedsolarholding.com/
+- type: Blog
+  url: https://www.unitedsolarholding.com/news
+- type: PrivacyPolicy
+  url: https://www.unitedsolarholding.com/privacy_protection
+- type: Contact
+  url: https://www.unitedsolarholding.com/about/contact.html
+- type: LLMsTxt
+  url: llms/united-solar-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
